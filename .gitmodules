@@ -1,3 +1,6 @@
 [submodule "Python-Pygame"]
 	path = Python-Pygame
 	url = https://github.com/NamPhuThuy/Python-Pygame.git
+[submodule "Sprite"]
+	path = Sprite
+	url = https://github.com/hanhercales/Sprite
